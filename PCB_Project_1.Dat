@@ -1,0 +1,31 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project_1.PrjPcb|ReportField=ProjectFullPath~C:\Users\AnhTu\Desktop\esp sensor for cappy\PCB_Project_1.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project_1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~37|ReportField=ReportTime~2:07:32 PM|ReportField=ReportDate~6/26/2020|ReportField=ReportDateTime~6/26/2020 2:07:32 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~6/26/2020|ReportField=CurrentTime~11:28:54 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\AnhTu\Desktop\esp sensor for cappy\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~6/25/2020|ReportField=Organization~|ReportField=ProjectName~PCB_Project_1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project_1.PrjPcb|ReportField=DataSourceFullPath~C:\Users\AnhTu\Desktop\esp sensor for cappy\PCB_Project_1.PrjPcb
+AO3401|P-Channel 30V 4A _Ta_ 1.4W _Ta_ Surface Mount SOT-23-3||SOT23|AO3401|1
+470pF|Ceramic Capacitors|C1|C0603|CAP-0603|1
+100nF|Ceramic Capacitors|C2, C3|C0603|CAP-0603|2
+10nF|Ceramic Capacitors|C4|C0603|CAP-0603|1
+|Capacitor (Semiconductor SIM Model)|C5, C6|1608[0603]|Cap Semi|2
+4.7uF|Ceramic Capacitors|C7|C0603|CAP-0603|1
+100uF TAJB107M006RNJ|Capacitor, SM Tantalum; Body 3.5 x 2.8 mm (LxW typ)|C8|SMT_C_Tantalum_B|SMT_C_Tantalum_B|1
+100nf|Capacitor (Semiconductor SIM Model)|C9|1608[0603]|Cap Semi|1
+1N4148||D1|LL-34|DIODE*'1N4148-SMD'|1
+SAMTEC-BCS-104-X-S-TE|4 Position Receptacle Connector Through Hole|J|SAMTEC-BCS-104-X-S-TE|SAMTEC-BCS-104-X-S-TE|1
+Grove|4P-SMD-2.0:320110030;4P-SMD-2.0-90D:320110032|J1|HW4-SMD-2.0-90D|GROVE-CONNECTOR-SMD'90D'|1
+Jumper 2|Jumper 2|J?|jp2h|JP 2|1
+LOGO-OSHW-FILLX0200-NT||LOGO1|OSHW_FILLX200_NOTEXT|LOGO-OSHW-FILLX0200-NT|1
+1.5k||R1|R0603|RES-0603|1
+2.4k||R2|R0603|RES-0603|1
+10K||R3|R0603|RES-0603|1
+100R||R6|R0603|RES-0603|1
+1M|Ceramic Capacitors|R7|C0603|CAP-0603|1
+10k|Resistor|R8, R12, R13, R14, R15|J1-0603|Res3|5
+100k|Resistor|R9|J1-0603|Res3|1
+0R|Resistor|R16, R50|J1-0603|Res3|2
+Res3|Resistor|R19|J1-0603|Res3|1
+reset|SMT Tactile ‎Switch PTS 820 Series|S1|SMT_SW_PTS_820|SMT_SW_PTS_820|1
+IO0|SMT Tactile ‎Switch PTS 820 Series|S2|SMT_SW_PTS_820|SMT_SW_PTS_820|1
+NE555|DIP-8:310110001;SOIC-8:310110013;TSSOP-8:310110002|U1|SOIC8-1.27-5X4MM|CLOCK/TIMING-NE555'DR'|1
+LMV358ID|SOIC-8:310020002;MSOP-8:310020007|U2|SOIC8-1.27-5X4MM|AMPLIFIER-LMV358'D'|1
+ESP_12_E|ESP-12 Wi-Fi Module by AI-Thinker|U3|ESP_12_E_L|ESP_12_E|1
+PMIC-XC6206P122MR(SOT23)|Linear Voltage Regulator IC Output|U12|SOT-23|PMIC-XC6206P122MR(SOT23)|1
+AP2112K-3.3TRG1|Linear Voltage Regulator IC 1 Output 600mA SOT-25|U13|SOT95P285X140-5N|AP2112K-3.3TRG1|1
+LOGO-GROVE||U$7|GROVE-SILK-BIG|LOGO-GROVE|1
